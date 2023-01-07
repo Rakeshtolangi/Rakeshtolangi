@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development(Backend)
 - 🌱 I’m currently working on python/Django
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me 
+- 📫 How to reach me [ tolangirakesh67@gmail.com ]
 
 <!---
 Rakeshtolangi/Rakeshtolangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
