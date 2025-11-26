@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakeshtolangi
 - 👀 I’m interested in web-development(Backend)
-- 🌱 I’m currently working on 1!PHP => Laravel     2!Python/Django
+- 🌱 I’m currently working on 1!PHP => Laravel     2! Python/Django
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me [ tolangirakesh67@gmail.com ]
 -     https://rakeshtolangi.netlify.app/
